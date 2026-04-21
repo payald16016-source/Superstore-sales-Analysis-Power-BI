@@ -4,15 +4,15 @@
 This Power BI dashboard provides a comprehensive analysis of the *US Superstore dataset*. The goal is to track key performance indicators (KPIs) like Total Sales, Profit Margins, and Category-wise performance to help stakeholders make data-driven decisions.
 
 ## Key Insights & Features
-* KPI Cards:* Real-time tracking of Total Sales, Profit, and Quantity.
-* Sales by Category:* Visualizing which product categories (Technology, Furniture, Office Supplies) are driving revenue.
-* Profit Analysis:* Identification of regions and segments with the highest and lowest profit margins.
-* Interactive Filters:* Users can filter data by Region and Year to drill down into specific trends.
+* KPI Cards: Real-time tracking of Total Sales, Profit, and Quantity.
+* Sales by Category: Visualizing which product categories (Technology, Furniture, Office Supplies) are driving revenue.
+* Profit Analysis: Identification of regions and segments with the highest and lowest profit margins.
+* Interactive Filters: Users can filter data by Region and Year to drill down into specific trends.
 
 ## Tools Used
-* Power BI Desktop:* For data visualization and dashboarding.
+* Power BI Desktop: For data visualization and dashboarding.
 * DAX (Data Analysis Expressions):* Used for calculating measures and custom columns.
-* Power Query:* For data cleaning and transformation.
+* Power Query: For data cleaning and transformation.
 
 ## How to View
 1. Download the .pbix file from this repository.
