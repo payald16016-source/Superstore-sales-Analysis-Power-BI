@@ -3,7 +3,7 @@
 
 ## Project Overview
 This Power BI dashboard provides a comprehensive analysis of the US Superstore dataset. The goal is to track key performance indicators (KPIs) like Total Sales, Profit Margins, and Category-wise performance to help stakeholders make data-driven decisions.
-![Superstore Dashboard]([dashboard.png](https://github.com/payald16016-source/Superstore-sales-Analysis-Power-BI/blob/main/dashboard.png))
+![Superstore Dashboard](dashboard.png)
 
 ## Key Insights & Features
 * KPI Cards: Real-time tracking of Total Sales, Profit, and Quantity.
